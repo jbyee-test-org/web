@@ -1,0 +1,5 @@
+env: dev
+registry: ghcr.io/betweenbits-org/bitcert
+imageDigest: ""                 # CI 가 publish 시 주입 (Phase 2)
+host: web.dev.bitcert.test
+ingressClass: kong

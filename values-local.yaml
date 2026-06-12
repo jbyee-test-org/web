@@ -1,0 +1,5 @@
+env: local
+registry: localhost/dev
+imageTag: local
+host: web.local
+ingressClass: kong
