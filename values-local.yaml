@@ -3,3 +3,4 @@ registry: localhost/dev
 imageTag: local
 host: web.local
 ingressClass: kong
+dbHost: postgres.bee-substrate.svc.cluster.local   # 데모 — 실환경 RDS+ESO(D13)
