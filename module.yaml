@@ -4,7 +4,7 @@ metadata:
 spec:
   product: attest
   chart:
-    version: "0.4.0"            # bee-module pin (G6)
+    version: "0.5.8"            # bee-module pin (G6) — G44 db 코덱(target)
   image:
     name: web
   dependsOn: [hello]
